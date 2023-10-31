@@ -1,7 +1,7 @@
 # Awesome-AI
 AI resources about AI reports, AI tools, and projects
 
-## AI knowledge warehouse
+## AI knowledge repo
 [AFE AI knowledge](https://khc96i8pgh.feishu.cn/wiki/E4JEw3kWBiBnQJku8pjc7YfTnUc?from=from_copylink)
 
 ## AI tool search
