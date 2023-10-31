@@ -12,7 +12,7 @@ AI resources about AI reports, AI tools, and projects
 - https://www.toolai.io/zh/
 
 ## AI tools
-- 提示转化为思维导图] - [Gitmind](Gitmind.com)
+- 提示转化为思维导图 - [Gitmind](Gitmind.com)
 - 将文本转化为幻灯片 - [Decktopus](Decktopus.com)
 - 帮你写代码 - [Codium](Codium.ai)
 - 帮助你更好地进行研究 - [Betterresearch](Betterresearch.com)
@@ -42,7 +42,7 @@ AI resources about AI reports, AI tools, and projects
 - Security Considerations in AI-Robotics: A Survey of Current Methods, Challenges, and Opportunities [[paper]](https://arxiv.org/abs/2310.08565)(Oct 2023 arXiv)
 - A Survey on Video Diffusion Models [[paper]](https://arxiv.org/abs/2310.10647)(Oct 2023 arXiv)
 - Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy [[paper]](https://arxiv.org/abs/2305.06360)(May 2023 arXiv)
-- Artificial Intelligence for Web 3.0: A Comprehensive Survey[[paper]](https://arxiv.org/abs/2309.09972)(Aug 2023 arXiv)
-- A Comprehensive Survey on Vector Database:Storage and Retrieval Technique, Challenge[[paper]](https://arxiv.org/abs/2310.11703)(Oct 2023 arXiv)
+- Artificial Intelligence for Web 3.0: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2309.09972)(Aug 2023 arXiv)
+- A Comprehensive Survey on Vector Database:Storage and Retrieval Technique, Challenge [[paper]](https://arxiv.org/abs/2310.11703)(Oct 2023 arXiv)
 
   
